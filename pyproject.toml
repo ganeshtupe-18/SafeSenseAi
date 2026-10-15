@@ -1,0 +1,9 @@
+[project]
+name = "safesense-ai"
+version = "0.1.0"
+description = "AI-powered food and consumer product safety platform"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,1 @@
+# Firestore schema\n\nDocument collections, field names, access rules, and ownership here before production integration.\n

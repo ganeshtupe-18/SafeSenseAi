@@ -1,0 +1,1 @@
+# Authentication endpoints go here. Verify Firebase ID tokens server-side.\n

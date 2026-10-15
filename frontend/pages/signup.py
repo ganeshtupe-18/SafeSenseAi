@@ -1,0 +1,1 @@
+# Signup UI goes here. Admin self-registration must not be allowed.\n

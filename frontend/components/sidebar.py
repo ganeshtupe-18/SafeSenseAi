@@ -1,0 +1,1 @@
+# Shared sidebar rendering can be moved here as navigation grows.\n

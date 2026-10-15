@@ -1,0 +1,1 @@
+# Architecture\n\nStreamlit frontend → FastAPI backend → feature services → Firestore and ML components.\n

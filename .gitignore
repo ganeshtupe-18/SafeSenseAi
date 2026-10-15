@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+.pytest_cache/
+.mypy_cache/
+
+# Secrets and credentials
+*service-account*.json
+firebase-adminsdk*.json
+secrets.toml
+
+# Data and model artifacts (review before committing)
+data/raw/*
+data/processed/*
+models/
+*.pkl
+*.joblib
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/

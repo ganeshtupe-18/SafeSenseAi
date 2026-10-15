@@ -1,0 +1,1 @@
+# API contracts\n\nAgree request/response schemas and error formats before integrating team modules.\n

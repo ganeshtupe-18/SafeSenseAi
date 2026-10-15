@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn[standard]
+firebase-admin
+python-dotenv
+pydantic
+pandas
+scikit-learn
+pytest
